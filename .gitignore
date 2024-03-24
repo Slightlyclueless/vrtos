@@ -9,5 +9,5 @@ Cargo.lock
 OVMF_CODE.fd
 OVMF_VARS.fd
 
-#esp stuff
+#the actual boot dir
 esp/

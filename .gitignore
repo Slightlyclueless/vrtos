@@ -1,8 +1,13 @@
+#cargo autogens
 debug/
 target/
 
+#well this isn't needed
 Cargo.lock
 
 #OVMF stuff
 OVMF_CODE.fd
 OVMF_VARS.fd
+
+#esp stuff
+esp/

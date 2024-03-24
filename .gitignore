@@ -1,0 +1,8 @@
+debug/
+target/
+
+Cargo.lock
+
+#OVMF stuff
+OVMF_CODE.fd
+OVMF_VARS.fd
